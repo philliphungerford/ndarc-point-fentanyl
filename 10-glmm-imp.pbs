@@ -11,4 +11,4 @@ module add R/3.6.1
 
 cd ${PBS_O_WORKDIR}
 
-Rscript 10-bivariate-imp.R
+Rscript 10-glmm-imp.R
